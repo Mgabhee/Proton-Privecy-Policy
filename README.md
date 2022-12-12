@@ -1,6 +1,6 @@
 # Proton-privacy-policy
 
-By using Lewsion you accept with its privacy policy and discord.com/terms & discord.com/guidelines.
+By using Proton Antinuke you accept with its privacy policy and discord.com/terms & discord.com/guidelines.
 
 # 1. What does it store?
 Channel Id's ( for logging events )
